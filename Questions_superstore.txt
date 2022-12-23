@@ -1,0 +1,12 @@
+Q1. Find out the total profit, sales, discount and shipping cost according 
+to segment.
+Q2. Top 10 corporate customer who gave best sale.
+Q3. How many order received in India on each segment?
+Q4. What would be the % of profit with respect to sales for santiago state with critical order priority.
+Q5. What is the avg shipping cost of 1st class for top 15 customers in south-east for home office site?
+Q6. What are the total no of orders for each catagory by each segment order date wise?
+Q7. How many product shipped by first class in every priority.
+Q8. Find out total sales and profit for each category with low order priority and zero discount.
+Q9. Name the cities of Australia whose %of sales is more than 5%?
+Q10. What is the total sales and quantity for top 5  samsung products in APAC Market for the year 2014?
+Q11. What % of shipping cost contribute in sales for Nokia Products in NEW ZEALAND country ?
